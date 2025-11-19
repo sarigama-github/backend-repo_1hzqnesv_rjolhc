@@ -1,0 +1,27 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [152] using StatReload
+INFO:     Started server process [154]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:45432 - "GET /bookings HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45462 - "GET /leads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45432 - "GET /bookings HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45494 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:45480 - "GET /leads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45468 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45480 - "GET /bookings HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45468 - "GET /tasks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45508 - "GET /leads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45520 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45480 - "GET /bookings HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45468 - "GET /tasks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53198 - "GET /leads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53194 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53198 - "GET /bookings HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53194 - "GET /tasks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57798 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57814 - "GET /leads HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53198 - "GET /bookings HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53194 - "GET /tasks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57822 - "OPTIONS /clients HTTP/1.1" 200 OK
